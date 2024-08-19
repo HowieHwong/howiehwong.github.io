@@ -48,7 +48,6 @@ Previously, Yue was a visiting student at the LAIR Lab, [Lehigh University](http
 - *2024.03.14*: &nbsp;🎉🎉 One paper has been accepted by NAACL 2024! Congratulations to [Qihui](https://mask-hui.github.io/), [Chujie](https://flossiee.github.io/) and [Dongping](https://dongping-chen.github.io/)!
 - *2024.03.05*: &nbsp;🎉🎉 One paper has been accepted as a short paper of WWW 2024!
 - *2024.02.08*: &nbsp;🎉🎉 Thanks for the invited talk on TrustLLM Project! @ [IBM Research](https://research.ibm.com/)
-- *2024.01.27*: &nbsp;🎉🎉 This fall, I will be pursuing my Ph.D. at the University of Notre Dame, with [Prof. Xiangliang Zhang](https://scholar.google.com/citations?user=BhRJe4wAAAAJ&hl=en) as my advisor!
 - *2024.01.15*: &nbsp;🎉🎉 [MetaTool](https://arxiv.org/abs/2310.03128) has been accepted by ICLR 2024!
 - *2024.01.13*: &nbsp;🎉🎉 Finish research internship at Tsinghua University KEG & Zhipu Inc.!
 
