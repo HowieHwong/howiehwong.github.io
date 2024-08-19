@@ -41,6 +41,7 @@ Previously, Yue was a visiting student at the LAIR Lab, [Lehigh University](http
 
 
 # 🔥 News
+- *2024.08.19*: &nbsp;🎉🎉 [Attack LLM-as-a-Judge](https://arxiv.org/abs/2403.17710) has been accepted by ACM CCS 2024!
 - *2024.07.28*: &nbsp;🎉🎉 OpenAI’s Researcher Access Program is Awarded.
 - *2024.05.16*: &nbsp;🎉🎉 One paper has been accepted by main conference of ACL 2024!
 - *2024.05.02*: &nbsp;🎉🎉 [TrustLLM](https://trustllmbenchmark.github.io/TrustLLM-Website/) has been accepted by ICML 2024! Thanks to all the collaborators. See you in Vienna!
