@@ -89,7 +89,7 @@ See more publications in my [Google Scholar](https://scholar.google.com/citation
 </div>
 </div>
 
-
+- ![CCS 2024](https://img.shields.io/badge/CCS-2024-c821f3) [Optimization-based Prompt Injection Attack to LLM-as-a-Judge](https://arxiv.org/abs/2403.17710) Jiawen Shi, Zenghui Yuan, Yinuo Liu, **Yue Huang**, Pan Zhou, Lichao Sun, Neil Zhenqiang Gong
 - ![ACL 2024](https://img.shields.io/badge/ACL-2024-e87213) [AlignBench: Benchmarking Chinese Alignment of Large Language Models](https://arxiv.org/abs/2311.18743) Xiao Liu, Xuanyu Lei, Shengyuan Wang, **Yue Huang**, Zhuoer Feng, et al.
 - ![NAACL 2024](https://img.shields.io/badge/NAACL-2024-f24b2e) [LLM-as-a-Coauthor: Can Mixed Human-Written and Machine-Generated Text Be Detected?](https://arxiv.org/abs/2401.05952) Qihui Zhang, Chujie Gao, Dongping Chen, **Yue Huang**, et al.
 - ![WWW 2024](https://img.shields.io/badge/WWW-2024-c7be87) [From Creation to Clarification: ChatGPT's Journey Through the Fake News Quagmire]() **Yue Huang**, Kai Shu, Philip S. Yu, Lichao Sun
