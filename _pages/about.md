@@ -86,6 +86,7 @@ See more publications in my [Google Scholar](https://scholar.google.com/citation
 [![Leaderboard](https://img.shields.io/badge/Leaderboard-%F0%9F%9A%80-brightgreen)](https://trustllmbenchmark.github.io/TrustLLM-Website/leaderboard.html)
 [![Toolkit Document](https://img.shields.io/badge/Toolkit%20Document-%F0%9F%93%9A-blueviolet)](https://howiehwong.github.io/TrustLLM/)
 [![Downloads](https://static.pepy.tech/badge/trustllm)](https://pepy.tech/project/trustllm)
+[![Metioned](https://img.shields.io/badge/Metioned%20By-DHS-red)](https://www.hsgac.senate.gov/wp-content/uploads/2024.06.11-Hedge-Fund-Use-of-AI-Report.pdf)
 
 </div>
 </div>
