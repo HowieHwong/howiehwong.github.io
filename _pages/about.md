@@ -33,12 +33,15 @@ Previously, Yue was a visiting student at the LAIR Lab, [Lehigh University](http
 > I am seeking potential research collaborations and the position of industry research intern. If you are interested, please [contact me](&#40;mailto:howiehwong@gmail.com&#41;).
 
 
-# 💡 Research Interest
+# 💡 Research
 
-- Trustworthy AI: safety, truthfulness, fairness, robustness, privacy and machine ethics of AI model.
-- Data-Centric and Human-Centered LLMs: Evaluation of LLMs, synthetic data for LLMs, LLM-based agents and LLM alignment.
-- XAI: Computational social science, cybersecurity, and human computer interaction.
+My research is centered on three pivotal questions:
 
+1. **How can we deepen our understanding of the trustworthiness of foundational generative models?** This line of inquiry seeks to develop robust frameworks for evaluating trustworthiness and to identify strategies for enhancing the trustworthiness of these models within specific application domains.
+
+2. **What is the optimal pathway for aligning AI models with human values?** This research delves into data-centric alignment approaches, investigating how AI systems can be fine-tuned to more accurately reflect and uphold human value systems and ethical norms.
+
+3. **To what extent can current AI technologies effectively benefit downstream applications?** This research area critically assesses the practical impact of AI, with a particular focus on AI4Science, exploring its transformative potential and interdisciplinary contributions in fields such as social sciences, psychology, and beyond.
 
 # 🔥 News
 - *2024.08.19*: &nbsp;🎉🎉 [Attack LLM-as-a-Judge](https://arxiv.org/abs/2403.17710) has been accepted by ACM CCS 2024!
