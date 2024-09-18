@@ -144,8 +144,8 @@ See more publications in my [Google Scholar](https://scholar.google.com/citation
 
 # 📖 Educations
 
-- *2024.09 - 2029.06 (Expected)*, Ph.D, <img src='images/Notre_Dame.png' style='width: 1.2em;'> [University of Notre Dame](https://www.nd.edu/) 
-- *2020.09 - now*, BEng., <img src='images/scu.png' style='width: 1.2em;'> [Sichuan University](https://www.scu.edu.cn/) 
+- *2024.09 - Present*, Ph.D, <img src='images/Notre_Dame.png' style='width: 1.2em;'> [University of Notre Dame](https://www.nd.edu/) 
+- *2020.09 - 2024.06*, BEng., <img src='images/scu.png' style='width: 1.2em;'> [Sichuan University](https://www.scu.edu.cn/) 
 
 # 💻 Internships
 
