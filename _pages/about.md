@@ -37,7 +37,7 @@ Previously, Yue was a visiting student at the LAIR Lab, [Lehigh University](http
 
 My research is centered on three pivotal questions:
 
-1. **How can we deepen our understanding of the trustworthiness of foundational generative models?** This line of inquiry seeks to develop robust frameworks for evaluating trustworthiness and to identify strategies for enhancing the trustworthiness of these models within specific application domains. This includes: [TrustLLM (ICML'24)](https://arxiv.org/abs/2401.05561), [LLM-as-a-Coauthor (NAACL'24)](https://aclanthology.org/2024.findings-naacl.29/), [Attack LLM Judge (ACM CCS'24)](https://arxiv.org/abs/2403.17710), [FakeGPT (WWW'24)](https://dl.acm.org/doi/abs/10.1145/3589335.3651509), [Multilingual Alignment (EMNLP'24)](https://arxiv.org/abs/2406.14721), [TrustNLP@NAACL'24](https://arxiv.org/abs/2407.16686), [HonestLLM](https://arxiv.org/abs/2406.00380), and [ObscurePrompt](https://arxiv.org/abs/2406.13662).
+1. **How can we deepen our understanding of the trustworthiness of foundational generative models?** This line of inquiry seeks to develop robust frameworks for evaluating trustworthiness and to identify strategies for enhancing the trustworthiness of these models within specific application domains. This includes: [TrustLLM (ICML'24)](https://arxiv.org/abs/2401.05561), [LLM-as-a-Coauthor (NAACL'24)](https://aclanthology.org/2024.findings-naacl.29/), [Attack LLM Judge (ACM CCS'24)](https://arxiv.org/abs/2403.17710), [FakeGPT (WWW'24)](https://dl.acm.org/doi/abs/10.1145/3589335.3651509), [Multilingual Alignment (EMNLP'24)](https://arxiv.org/abs/2406.14721), [HonestLLM (NeurIPS'24)](https://arxiv.org/abs/2406.00380), [TrustNLP@NAACL'24](https://arxiv.org/abs/2407.16686), and [ObscurePrompt](https://arxiv.org/abs/2406.13662).
 
 
 2. **Is there a superior approach to achieving Artificial General Intelligence (AGI)?** This research emphasizes data-centric methods to enable scalable model alignment and evolution, ensuring that they adhere to human values and ethical paradigms throughout the development process. This includes: [AlignBench (ACL'24)](https://arxiv.org/abs/2311.18743) and [UniGen](https://arxiv.org/abs/2406.18966).
@@ -45,6 +45,7 @@ My research is centered on three pivotal questions:
 3. **To what extent can current AI technologies effectively benefit downstream applications?** This research area critically assesses the practical impact of generative models, with a particular focus on their application and AI4Science, exploring its transformative potential and interdisciplinary contributions in fields such as agentic models, social sciences, and beyond. This includes: [MetaTool (ICLR'24)](https://arxiv.org/abs/2310.03128), [PsychometricBench](https://arxiv.org/abs/2406.17675), [AwareBench](https://arxiv.org/abs/2401.17882) and [GUI-World](https://arxiv.org/abs/2406.10819).
 
 # 🔥 News
+- *2024.09.25*  &nbsp;🎉🎉 [HonestLLM](https://arxiv.org/abs/2406.00380) has been accepted by main conference of NeurIPS 2024! Congratulations to [Chujie](https://flossiee.github.io/)!
 - *2024.09.19*  &nbsp;🎉🎉 One paper has been accepted by main conference of EMNLP 2024!
 - *2024.08.19*: &nbsp;🎉🎉 [Attack LLM-as-a-Judge](https://arxiv.org/abs/2403.17710) has been accepted by ACM CCS 2024!
 - *2024.07.28*: &nbsp;🎉🎉 OpenAI’s Researcher Access Program is Awarded.
