@@ -30,7 +30,7 @@ Yue Huang (黄跃, Yue pronounced similar to "your") is a PhD student in Compute
 
 > I am seeking potential research collaborations and the position of industry research intern. If you are interested, please [contact me](&#40;mailto:howiehwong@gmail.com&#41;).
 
-> We are hosting [IEEE CS North America Student Challenge 2024](https://www.kaggle.com/competitions/ieee-cs-global-student-challenge-2024) from Sep 30th to Oct 21. Welcome to participate the competition on *Inferring User Latent Preference from Conversations with LLM*, and win the First Prize: 2,500 USD; Second Prize: 1,500 USD; Third Prize: 500 USD.
+<!-- > We are hosting [IEEE CS North America Student Challenge 2024](https://www.kaggle.com/competitions/ieee-cs-global-student-challenge-2024) from Sep 30th to Oct 21. Welcome to participate the competition on *Inferring User Latent Preference from Conversations with LLM*, and win the First Prize: 2,500 USD; Second Prize: 1,500 USD; Third Prize: 500 USD. -->
 
 # 💡 Research
 
