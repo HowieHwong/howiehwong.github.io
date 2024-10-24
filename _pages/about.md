@@ -44,17 +44,13 @@ My research is centered on three pivotal questions:
 3. **To what extent can current AI technologies effectively benefit downstream applications?** This research area critically assesses the practical impact of generative models, with a particular focus on their application and AI4Science, exploring its transformative potential and interdisciplinary contributions in fields such as agentic models, social sciences, and beyond. This includes: [MetaTool (ICLR'24)](https://arxiv.org/abs/2310.03128), [PsychometricBench](https://arxiv.org/abs/2406.17675), [AwareBench](https://arxiv.org/abs/2401.17882) and [GUI-World](https://arxiv.org/abs/2406.10819).
 
 # 🔥 News
-- *2024.09.25*  &nbsp;🎉🎉 [HonestLLM](https://arxiv.org/abs/2406.00380) has been accepted by NeurIPS 2024! Congratulations to [Chujie](https://flossiee.github.io/)!
-- *2024.09.19*  &nbsp;🎉🎉 One paper has been accepted by main conference of EMNLP 2024!
-- *2024.08.19* &nbsp;🎉🎉 [Attack LLM-as-a-Judge](https://arxiv.org/abs/2403.17710) has been accepted by ACM CCS 2024!
-- *2024.07.28* &nbsp;🎉🎉 OpenAI’s Researcher Access Program is Awarded.
-- *2024.05.16* &nbsp;🎉🎉 One paper has been accepted by main conference of ACL 2024!
-- *2024.05.02* &nbsp;🎉🎉 [TrustLLM](https://trustllmbenchmark.github.io/TrustLLM-Website/) has been accepted by ICML 2024! Thanks to all the collaborators. See you in Vienna!
-- *2024.03.14* &nbsp;🎉🎉 One paper has been accepted by NAACL 2024! Congratulations to [Qihui](https://mask-hui.github.io/), [Chujie](https://flossiee.github.io/) and [Dongping](https://dongping-chen.github.io/)!
-- *2024.03.05* &nbsp;🎉🎉 One paper has been accepted as a short paper of WWW 2024!
-- *2024.02.08* &nbsp;🎉🎉 Thanks for the invited talk on TrustLLM Project! @ [IBM Research](https://research.ibm.com/)
-- *2024.01.15* &nbsp;🎉🎉 [MetaTool](https://arxiv.org/abs/2310.03128) has been accepted by ICLR 2024!
-- *2024.01.13* &nbsp;🎉🎉 Finish research internship at Tsinghua University KEG & Zhipu Inc.!
+- *2024.09*  &nbsp;🎉🎉 [HonestLLM](https://arxiv.org/abs/2406.00380) has been accepted by NeurIPS 2024! Congratulations to [Chujie](https://flossiee.github.io/)! Another paper has been accepted by main conference of EMNLP 2024!
+- *2024.08* &nbsp;🎉🎉 [Attack LLM-as-a-Judge](https://arxiv.org/abs/2403.17710) has been accepted by ACM CCS 2024!
+- *2024.07* &nbsp;🎉🎉 OpenAI’s Researcher Access Program is Awarded.
+- *2024.05* &nbsp;🎉🎉 [TrustLLM](https://trustllmbenchmark.github.io/TrustLLM-Website/) has been accepted by ICML 2024! Thanks to all the collaborators. See you in Vienna! Another paper has been accepted by main conference of ACL 2024!
+- *2024.03* &nbsp;🎉🎉 One paper has been accepted by NAACL 2024! Congratulations to [Qihui](https://mask-hui.github.io/), [Chujie](https://flossiee.github.io/) and [Dongping](https://dongping-chen.github.io/)! Another paper has been accepted as a short paper of WWW 2024!
+- *2024.02* &nbsp;🎉🎉 Thanks for the invited talk on TrustLLM Project! @ [IBM Research](https://research.ibm.com/)
+- *2024.01* &nbsp;🎉🎉 [MetaTool](https://arxiv.org/abs/2310.03128) has been accepted by ICLR 2024! Finish research internship at Tsinghua University KEG & Zhipu Inc.!
 
 
 # 📝 Selected Publications 
