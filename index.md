@@ -34,11 +34,13 @@ My research is centered on three pivotal questions:
 
 - [TrustLLM: Trustworthiness in Large Language Models](https://proceedings.mlr.press/v235/huang24x.html)\\
   **Yue Huang**, Lichao Sun, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al.\\
-  **ICML 2024**
+  **ICML 2024** (Highlighted by United States Department of Homeland Security (DHS), Invited Talk at IBM Research)\\
+  [Code&Toolkit](https://howiehwong.github.io/TrustLLM/) [Website](https://trustllmbenchmark.github.io/TrustLLM-Website/)
 
 - [MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use](https://arxiv.org/abs/2310.03128)\\
   **Yue Huang**, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, Qihui Zhang, Yixin Liu, Pan Zhou, Yao Wan, Neil Zhenqiang Gong, Lichao Sun\\
-  **ICLR 2024**
+  **ICLR 2024**\\
+  [Code](https://github.com/HowieHwong/MetaTool)
 
 - [1+1>2: Can Large Language Models Serve as Cross-Lingual Knowledge Aggregators?](https://arxiv.org/abs/2406.14721)\\
   **Yue Huang**, Chenrui Fan, Yuan Li, Siyuan Wu, et al.\\
