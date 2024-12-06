@@ -21,11 +21,17 @@ My research is centered on three pivotal questions:
 ## News
 
 - *2024.09*  &nbsp; [HonestLLM](https://arxiv.org/abs/2406.00380) has been accepted by NeurIPS 2024! Congratulations to [Chujie](https://flossiee.github.io/)! Another paper has been accepted by main conference of EMNLP 2024!
+
 - *2024.08* &nbsp; [Attack LLM-as-a-Judge](https://arxiv.org/abs/2403.17710) has been accepted by ACM CCS 2024!
+
 - *2024.07* &nbsp; OpenAI’s Researcher Access Program is Awarded.
+
 - *2024.05* &nbsp; [TrustLLM](https://trustllmbenchmark.github.io/TrustLLM-Website/) has been accepted by ICML 2024! Thanks to all the collaborators. See you in Vienna! Another paper has been accepted by main conference of ACL 2024!
+
 - *2024.03* &nbsp; One paper has been accepted by NAACL 2024! Congratulations to [Qihui](https://mask-hui.github.io/), [Chujie](https://flossiee.github.io/) and [Dongping](https://dongping-chen.github.io/)! Another paper has been accepted as a short paper of WWW 2024!
+
 - *2024.02* &nbsp; Thanks for the invited talk on TrustLLM Project! @ [IBM Research](https://research.ibm.com/)
+
 - *2024.01* &nbsp; [MetaTool](https://arxiv.org/abs/2310.03128) has been accepted by ICLR 2024! Finish research internship at Tsinghua University KEG & Zhipu Inc.!
 
 ## Selected Publications
@@ -67,6 +73,16 @@ My research is centered on three pivotal questions:
 - [From Creation to Clarification: ChatGPT's Journey Through the Fake News Quagmire]()\\
   **Yue Huang**, Kai Shu, Philip S. Yu, Lichao Sun\\
   <span style="color: #de724e;">2024 ACM Web Conference (WWW 2024)</span>
+
+## Talks
+- *2024.02* Invited Talk: Trustworthiness in Large Language Models @ [IBM Research](https://research.ibm.com/)
+
+- *2024.07* Invited Talk: Bias of Large Language Models @ TUM
+
+## Honors and Awards
+- *2024.07* OpenAI’s Researcher Access Program and API
+
+- *2024.01* Microsoft Accelerate Foundation Models Research is awarded (Project: [TrustLLM](https://github.com/HowieHwong/TrustLLM) & Lead PI: [Lichao Sun](https://lichao-sun.github.io/))
 
 ## Educations
 
