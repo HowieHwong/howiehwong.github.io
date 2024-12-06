@@ -75,9 +75,9 @@ My research is centered on three pivotal questions:
   <span style="color: #de724e;">2024 ACM Web Conference (WWW 2024)</span>
 
 ## Talks
-- *2024.02* Invited Talk: Trustworthiness in Large Language Models @ [IBM Research](https://research.ibm.com/)
+- *2024.02* Trustworthiness in Large Language Models @ [IBM Research](https://research.ibm.com/)
 
-- *2024.07* Invited Talk: Bias of Large Language Models @ TUM
+- *2024.07* Bias of Large Language Models @ TUM
 
 ## Honors and Awards
 - *2024.07* OpenAI’s Researcher Access Program and API
