@@ -34,35 +34,36 @@ My research is centered on three pivotal questions:
 
 - [TrustLLM: Trustworthiness in Large Language Models](https://proceedings.mlr.press/v235/huang24x.html)\\
   **Yue Huang**, Lichao Sun, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al.\\
-  **ICML 2024** (Highlighted by United States Department of Homeland Security (DHS), Invited Talk at IBM Research)\\
-  [Code&Toolkit](https://howiehwong.github.io/TrustLLM/) [Website](https://trustllmbenchmark.github.io/TrustLLM-Website/)
+  <span style="color: #FFCCCB;">**ICML 2024**</span> (Highlighted by United States Department of Homeland Security (DHS), Invited Talk at IBM Research)\\
+  [\[Code&Toolkit\]](https://howiehwong.github.io/TrustLLM/) [\[Website\]](https://trustllmbenchmark.github.io/TrustLLM-Website/)
 
 - [MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use](https://arxiv.org/abs/2310.03128)\\
   **Yue Huang**, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, Qihui Zhang, Yixin Liu, Pan Zhou, Yao Wan, Neil Zhenqiang Gong, Lichao Sun\\
-  **ICLR 2024**\\
-  [Code](https://github.com/HowieHwong/MetaTool)
+  <span style="color: #FFCCCB;">**ICLR 2024**</span>\\
+  [\[Code\]](https://github.com/HowieHwong/MetaTool)
 
 - [1+1>2: Can Large Language Models Serve as Cross-Lingual Knowledge Aggregators?](https://arxiv.org/abs/2406.14721)\\
   **Yue Huang**, Chenrui Fan, Yuan Li, Siyuan Wu, et al.\\
-  **EMNLP 2024**
+  <span style="color: #FFCCCB;">**EMNLP 2024**</span>
 
 - [HonestLLM: Toward an Honest and Helpful Large Language Model](https://arxiv.org/abs/2406.00380) \\
   Chujie Gao\*, Siyuan Wu\*, **Yue Huang\***, Qihui Zhang\*, Dongping Chen\*, et al. (*: Equal Contribution)\\
-  **NeurIPS 2024**
+  <span style="color: #FFCCCB;">**NeurIPS 2024**</span>
 
 - [Optimization-based Prompt Injection Attack to LLM-as-a-Judge](https://arxiv.org/abs/2403.17710)\\
   Jiawen Shi, Zenghui Yuan, Yinuo Liu, **Yue Huang**, Pan Zhou, Lichao Sun, Neil Zhenqiang Gong\\
-  **ACM CCS 2024**
+  <span style="color: #FFCCCB;">**ACM CCS 2024**</span>
 
 - [LLM-as-a-Coauthor: Can Mixed Human-Written and Machine-Generated Text Be Detected?](https://arxiv.org/abs/2401.05952)\\
-  Qihui Zhang, Chujie Gao, Dongping Chen, **Yue Huang**, et al.
-  **NAACL 2024**
+  Qihui Zhang, Chujie Gao, Dongping Chen, **Yue Huang**, et al.  
+  <span style="color: #FFCCCB;">**NAACL 2024**</span>
 
 - [AlignBench: Benchmarking Chinese Alignment of Large Language Models](https://arxiv.org/abs/2311.18743)\\
   Xiao Liu, Xuanyu Lei, Shengyuan Wang, **Yue Huang**, Zhuoer Feng, et al.\\
-  **ACL 2024**
+  <span style="color: #FFCCCB;">**ACL 2024**</span>
 
 - [From Creation to Clarification: ChatGPT's Journey Through the Fake News Quagmire]()\\
   **Yue Huang**, Kai Shu, Philip S. Yu, Lichao Sun\\
-  **WWW 2024**
+  <span style="color: #FFCCCB;">**WWW 2024**</span>
+
 
