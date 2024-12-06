@@ -36,26 +36,31 @@ My research is centered on three pivotal questions:
   **Yue Huang**, Lichao Sun, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al.\\
   **ICML 2024**
 
-- [MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use](https://arxiv.org/abs/2310.03128)
-  **Yue Huang**, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, Qihui Zhang, Yixin Liu, Pan Zhou, Yao Wan, Neil Zhenqiang Gong, Lichao Sun
-
+- [MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use](https://arxiv.org/abs/2310.03128)\\
+  **Yue Huang**, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, Qihui Zhang, Yixin Liu, Pan Zhou, Yao Wan, Neil Zhenqiang Gong, Lichao Sun\\
   **ICLR 2024**
 
-- [1+1>2: Can Large Language Models Serve as Cross-Lingual Knowledge Aggregators?](https://arxiv.org/abs/2406.14721) 
-
-  **Yue Huang**, Chenrui Fan, Yuan Li, Siyuan Wu, et al.
-
+- [1+1>2: Can Large Language Models Serve as Cross-Lingual Knowledge Aggregators?](https://arxiv.org/abs/2406.14721)\\
+  **Yue Huang**, Chenrui Fan, Yuan Li, Siyuan Wu, et al.\\
   **EMNLP 2024**
 
-- [HonestLLM: Toward an Honest and Helpful Large Language Model](https://arxiv.org/abs/2406.00380) 
-
-  Chujie Gao\*, Siyuan Wu\*,     **Yue Huang\***, Qihui Zhang\*, Dongping Chen\*, et al. (*: Equal Contribution)
-
+- [HonestLLM: Toward an Honest and Helpful Large Language Model](https://arxiv.org/abs/2406.00380) \\
+  Chujie Gao\*, Siyuan Wu\*, **Yue Huang\***, Qihui Zhang\*, Dongping Chen\*, et al. (*: Equal Contribution)\\
   **NeurIPS 2024**
 
-- [Optimization-based Prompt Injection Attack to LLM-as-a-Judge](https://arxiv.org/abs/2403.17710) 
-
-  Jiawen Shi, Zenghui Yuan, Yinuo Liu, **Yue Huang**, Pan Zhou, Lichao Sun, Neil Zhenqiang Gong
-
+- [Optimization-based Prompt Injection Attack to LLM-as-a-Judge](https://arxiv.org/abs/2403.17710)\\
+  Jiawen Shi, Zenghui Yuan, Yinuo Liu, **Yue Huang**, Pan Zhou, Lichao Sun, Neil Zhenqiang Gong\\
   **ACM CCS 2024**
+
+- [LLM-as-a-Coauthor: Can Mixed Human-Written and Machine-Generated Text Be Detected?](https://arxiv.org/abs/2401.05952)\\
+  Qihui Zhang, Chujie Gao, Dongping Chen, **Yue Huang**, et al.
+  **NAACL 2024**
+
+- [AlignBench: Benchmarking Chinese Alignment of Large Language Models](https://arxiv.org/abs/2311.18743)\\
+  Xiao Liu, Xuanyu Lei, Shengyuan Wang, **Yue Huang**, Zhuoer Feng, et al.\\
+  **ACL 2024**
+
+- [From Creation to Clarification: ChatGPT's Journey Through the Fake News Quagmire]()\\
+  **Yue Huang**, Kai Shu, Philip S. Yu, Lichao Sun\\
+  **WWW 2024**
 
