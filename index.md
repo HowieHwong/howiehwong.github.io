@@ -20,6 +20,8 @@ My research is centered on three pivotal questions:
 
 ## News
 
+- *2024.12* &nbsp; I will join IBM Research as a Research Scientist Intern in 2025 Summer. See you in Cambridge, MA.
+
 - *2024.09*  &nbsp; [HonestLLM](https://arxiv.org/abs/2406.00380) has been accepted by NeurIPS 2024! Congratulations to [Chujie](https://flossiee.github.io/)! Another paper has been accepted by main conference of EMNLP 2024!
 
 - *2024.08* &nbsp; [Attack LLM-as-a-Judge](https://arxiv.org/abs/2403.17710) has been accepted by ACM CCS 2024!
