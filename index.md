@@ -32,6 +32,8 @@ My research is centered on three pivotal questions:
 
 **Disclaimer**: This material is presented to ensure the timely dissemination of scholarly works. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms invoked by each author's copyright.
 
+*: Equal Contribution
+
 - [TrustLLM: Trustworthiness in Large Language Models](https://proceedings.mlr.press/v235/huang24x.html)\\
   **Yue Huang**, Lichao Sun, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al.\\
   <span style="color: #de724e;">2024 International Conference on Machine Learning (ICML 2024)</span> (Highlighted by United States Department of Homeland Security (DHS), Invited Talk at IBM Research)\\
@@ -47,7 +49,7 @@ My research is centered on three pivotal questions:
   <span style="color: #de724e;">The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)</span>
 
 - [HonestLLM: Toward an Honest and Helpful Large Language Model](https://arxiv.org/abs/2406.00380) \\
-  Chujie Gao\*, Siyuan Wu\*, **Yue Huang\***, Qihui Zhang\*, Dongping Chen\*, et al. (*: Equal Contribution)\\
+  Chujie Gao\*, Siyuan Wu\*, **Yue Huang\***, Qihui Zhang\*, Dongping Chen\*, et al. \\
   <span style="color: #de724e;">Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</span>
 
 - [Optimization-based Prompt Injection Attack to LLM-as-a-Judge](https://arxiv.org/abs/2403.17710)\\
@@ -55,11 +57,11 @@ My research is centered on three pivotal questions:
   <span style="color: #de724e;">The ACM Conference on Computer and Communications Security (ACM CCS 2024)</span>
 
 - [LLM-as-a-Coauthor: Can Mixed Human-Written and Machine-Generated Text Be Detected?](https://arxiv.org/abs/2401.05952)\\
-  Qihui Zhang, Chujie Gao, Dongping Chen, **Yue Huang**, et al.  
+  Qihui Zhang\*, Chujie Gao\*, Dongping Chen\*, **Yue Huang**, et al.  
   <span style="color: #de724e;">2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (Findings of NAACL 2024)</span>
 
 - [AlignBench: Benchmarking Chinese Alignment of Large Language Models](https://arxiv.org/abs/2311.18743)\\
-  Xiao Liu, Xuanyu Lei, Shengyuan Wang, **Yue Huang**, Zhuoer Feng, et al.\\
+  Xiao Liu\*, Xuanyu Lei\*, Shengyuan Wang, **Yue Huang**, Zhuoer Feng, et al.\\
   <span style="color: #de724e;">The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)</span>
 
 - [From Creation to Clarification: ChatGPT's Journey Through the Fake News Quagmire]()\\
