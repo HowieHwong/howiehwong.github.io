@@ -28,7 +28,7 @@ My research is centered on three pivotal questions:
 - *2024.02* &nbsp; Thanks for the invited talk on TrustLLM Project! @ [IBM Research](https://research.ibm.com/)
 - *2024.01* &nbsp; [MetaTool](https://arxiv.org/abs/2310.03128) has been accepted by ICLR 2024! Finish research internship at Tsinghua University KEG & Zhipu Inc.!
 
-## Selected Publication
+## Selected Publications
 
 **Disclaimer**: This material is presented to ensure the timely dissemination of scholarly works. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms invoked by each author's copyright.
 
