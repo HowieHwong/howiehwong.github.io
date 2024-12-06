@@ -66,4 +66,12 @@ My research is centered on three pivotal questions:
   **Yue Huang**, Kai Shu, Philip S. Yu, Lichao Sun\\
   <span style="color: #de724e;">2024 ACM Web Conference (WWW 2024)</span>
 
+## Educations
 
+- *2024.09 - Present*, Ph.D, <img src='images/Notre_Dame.png' style='width: 1.2em;'> [University of Notre Dame](https://www.nd.edu/) 
+- *2020.09 - 2024.06*, BEng., <img src='images/scu.png' style='width: 1.2em;'> [Sichuan University](https://www.scu.edu.cn/) 
+
+
+## Internships
+
+- *2023.09 - 2024.01*, Research Intern at <img src='images/thu.png' style='width: 1.2em;'> Tsinghua University KEG & Zhipu AI Inc.
