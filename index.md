@@ -6,6 +6,8 @@ layout: homepage
 
 I'm a PhD student in [MINE Lab](https://mine-lab-nd.github.io/) of Computer Science and Engineering (CSE) at the [University of Notre Dame](https://www.nd.edu/) starting Fall 2024, supervised by [Prof. Xiangliang Zhang](https://scholar.google.com/citations?user=BhRJe4wAAAAJ&hl=en). I obtained a bachelor's degree from [Sichuan University](https://www.scu.edu.cn/) in 2024. Previously, I was a visiting student under the guidance of [Prof. Lichao Sun](https://lichao-sun.github.io/). This experience was enhanced by mentorship from [Prof. Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en). Earlier before, I worked under [Prof. Tang Jie](https://keg.cs.tsinghua.edu.cn/jietang/) and [Dr. Xiao Liu](https://scholar.google.com.hk/citations?user=VKI8EhUAAAAJ&hl=zh-CN) at Tsinghua University.
 
+> I am seeking potential research collaborations. If you are interested, please [contact me](&#40;mailto:yhuang37@nd.edu&#41;).
+
 ## Research Interests
 
 My research is centered on three pivotal questions:
@@ -25,4 +27,24 @@ My research is centered on three pivotal questions:
 - *2024.03* &nbsp; One paper has been accepted by NAACL 2024! Congratulations to [Qihui](https://mask-hui.github.io/), [Chujie](https://flossiee.github.io/) and [Dongping](https://dongping-chen.github.io/)! Another paper has been accepted as a short paper of WWW 2024!
 - *2024.02* &nbsp; Thanks for the invited talk on TrustLLM Project! @ [IBM Research](https://research.ibm.com/)
 - *2024.01* &nbsp; [MetaTool](https://arxiv.org/abs/2310.03128) has been accepted by ICLR 2024! Finish research internship at Tsinghua University KEG & Zhipu Inc.!
+
+## Selected Publication
+
+**Disclaimer**: This material is presented to ensure the timely dissemination of scholarly works. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms invoked by each author's copyright.
+
+- [TrustLLM: Trustworthiness in Large Language Models](https://proceedings.mlr.press/v235/huang24x.html)
+  **Yue Huang**, Lichao Sun, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al.
+  **ICML 2024**
+
+- [MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use](https://arxiv.org/abs/2310.03128)
+  **Yue Huang**, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, Qihui Zhang, Yixin Liu, Pan Zhou, Yao Wan, Neil Zhenqiang Gong, Lichao Sun
+  **ICLR 2024**
+
+- [1+1>2: Can Large Language Models Serve as Cross-Lingual Knowledge Aggregators?](https://arxiv.org/abs/2406.14721) 
+  **Yue Huang**, Chenrui Fan, Yuan Li, Siyuan Wu, et al.
+  **EMNLP 2024**
+
+- [HonestLLM: Toward an Honest and Helpful Large Language Model](https://arxiv.org/abs/2406.00380) 
+  Chujie Gao\*, Siyuan Wu\*,     **Yue Huang\***, Qihui Zhang\*, Dongping Chen\*, et al. (*: Equal Contribution)
+  **NeurIPS 2024**
 
