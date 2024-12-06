@@ -32,10 +32,8 @@ My research is centered on three pivotal questions:
 
 **Disclaimer**: This material is presented to ensure the timely dissemination of scholarly works. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms invoked by each author's copyright.
 
-- [TrustLLM: Trustworthiness in Large Language Models](https://proceedings.mlr.press/v235/huang24x.html)
-
-  **Yue Huang**, Lichao Sun, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al.
-
+- [TrustLLM: Trustworthiness in Large Language Models](https://proceedings.mlr.press/v235/huang24x.html)\\
+  **Yue Huang**, Lichao Sun, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al.\\
   **ICML 2024**
 
 - [MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use](https://arxiv.org/abs/2310.03128)
@@ -54,4 +52,10 @@ My research is centered on three pivotal questions:
   Chujie Gao\*, Siyuan Wu\*,     **Yue Huang\***, Qihui Zhang\*, Dongping Chen\*, et al. (*: Equal Contribution)
 
   **NeurIPS 2024**
+
+- [Optimization-based Prompt Injection Attack to LLM-as-a-Judge](https://arxiv.org/abs/2403.17710) 
+
+  Jiawen Shi, Zenghui Yuan, Yinuo Liu, **Yue Huang**, Pan Zhou, Lichao Sun, Neil Zhenqiang Gong
+
+  **ACM CCS 2024**
 
