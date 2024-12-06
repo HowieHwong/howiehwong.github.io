@@ -1,0 +1,34 @@
+# Basic Information 
+title: Yue Huang (黄跃)
+position: PhD Student of Computer and Science
+affiliation: University of Notre Dame
+affiliation_link: https://www.nd.edu/
+department: Computer Science and Engineering
+department_link: https://cse.nd.edu/
+email: yhuang37 (at) nd.edu
+address: Fitzpatrick Hall of Engineering, Notre Dame, IN 46556 USA
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: Your name
+description: The description
+canonical: https://jekyll-jemdoc.yliu.me/
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?user=HvzvvqQAAAAJ&hl=en
+# resume: https://google.com
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/profile.jpg
+favicon: ./assets/img/Notre_Dame.png
+favicon_dark: ./assets/img/Notre_Dame.png
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - jekyll-jemdoc.gemspec
