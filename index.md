@@ -44,16 +44,17 @@ My research is centered on three pivotal questions:
 
 - [TrustLLM: Trustworthiness in Large Language Models](https://proceedings.mlr.press/v235/huang24x.html)\\
   **Yue Huang**, Lichao Sun, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al.\\
-  <span style="color: #de724e;">2024 International Conference on Machine Learning (ICML 2024)</span> (Highlighted by United States Department of Homeland Security (DHS), Invited Talk at IBM Research)\\
+  <span style="color: #de724e;">2024 International Conference on Machine Learning (ICML 2024)</span>\\
+  (Highlighted by United States Department of Homeland Security (DHS), Invited Talk at IBM Research)\\
   [\[Code&Toolkit\]](https://howiehwong.github.io/TrustLLM/) [\[Website\]](https://trustllmbenchmark.github.io/TrustLLM-Website/)
 
 - [MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use](https://arxiv.org/abs/2310.03128)\\
-  **Yue Huang**, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, Qihui Zhang, Yixin Liu, Pan Zhou, Yao Wan, Neil Zhenqiang Gong, Lichao Sun\\
+  **Yue Huang**, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, Qihui Zhang, Yixin Liu, Pan Zhou, et al.\\
   <span style="color: #de724e;"> The Twelfth International Conference on Learning Representations (ICLR 2024)</span>\\
   [\[Code\]](https://github.com/HowieHwong/MetaTool)
 
 - [1+1>2: Can Large Language Models Serve as Cross-Lingual Knowledge Aggregators?](https://arxiv.org/abs/2406.14721)\\
-  **Yue Huang**, Chenrui Fan, Yuan Li, Siyuan Wu, et al.\\
+  **Yue Huang**\*, Chenrui Fan\*, Yuan Li, Siyuan Wu, et al.\\
   <span style="color: #de724e;">The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)</span>
 
 - [HonestLLM: Toward an Honest and Helpful Large Language Model](https://arxiv.org/abs/2406.00380) \\
