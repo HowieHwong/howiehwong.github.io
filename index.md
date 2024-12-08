@@ -58,7 +58,7 @@ My research is centered on three pivotal questions:
   <span style="color: #de724e;">The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)</span>
 
 - [HonestLLM: Toward an Honest and Helpful Large Language Model](https://arxiv.org/abs/2406.00380) \\
-  Chujie Gao\*, Siyuan Wu\*, **Yue Huang\***, Qihui Zhang\*, Dongping Chen\*, et al. \\
+  Chujie Gao\*, Siyuan Wu\*, **Yue Huang\***, Dongping Chen\*, Qihui Zhang\*, et al. \\
   <span style="color: #de724e;">Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</span>
 
 - [Optimization-based Prompt Injection Attack to LLM-as-a-Judge](https://arxiv.org/abs/2403.17710)\\
