@@ -59,19 +59,23 @@ My research is centered on three pivotal questions:
 
 - [HonestLLM: Toward an Honest and Helpful Large Language Model](https://arxiv.org/abs/2406.00380) \\
   Chujie Gao\*, Siyuan Wu\*, **Yue Huang\***, Dongping Chen\*, Qihui Zhang\*, et al. \\
-  <span style="color: #de724e;">Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</span>
+  <span style="color: #de724e;">Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</span>\\
+  [\[Code\]](https://github.com/Flossiee/HonestyLLM)
 
 - [Optimization-based Prompt Injection Attack to LLM-as-a-Judge](https://arxiv.org/abs/2403.17710)\\
   Jiawen Shi, Zenghui Yuan, Yinuo Liu, **Yue Huang**, Pan Zhou, Lichao Sun, Neil Zhenqiang Gong\\
-  <span style="color: #de724e;">The ACM Conference on Computer and Communications Security (ACM CCS 2024)</span>
+  <span style="color: #de724e;">The ACM Conference on Computer and Communications Security (ACM CCS 2024)</span>\\
+  [\[Code\]](https://github.com/ShiJiawenwen/JudgeDeceiver)
 
 - [LLM-as-a-Coauthor: Can Mixed Human-Written and Machine-Generated Text Be Detected?](https://arxiv.org/abs/2401.05952)\\
   Qihui Zhang\*, Chujie Gao\*, Dongping Chen\*, **Yue Huang**, et al.  
-  <span style="color: #de724e;">2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (Findings of NAACL 2024)</span>
+  <span style="color: #de724e;">2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (Findings of NAACL 2024)</span>\\
+  [\[Code\]](https://github.com/Dongping-Chen/MixSet) [\[Website\]](https://llm-coauthor.github.io/)
 
 - [AlignBench: Benchmarking Chinese Alignment of Large Language Models](https://arxiv.org/abs/2311.18743)\\
   Xiao Liu\*, Xuanyu Lei\*, Shengyuan Wang, **Yue Huang**, Zhuoer Feng, et al.\\
-  <span style="color: #de724e;">The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)</span>
+  <span style="color: #de724e;">The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)</span>\\
+  [\[Code\]](https://github.com/THUDM/AlignBench) [\[Website\]](https://llmbench.ai/align)
 
 - [From Creation to Clarification: ChatGPT's Journey Through the Fake News Quagmire]()\\
   **Yue Huang**, Kai Shu, Philip S. Yu, Lichao Sun\\
