@@ -6,7 +6,8 @@ layout: homepage
 
 I'm a first-year PhD student in [MINE Lab](https://mine-lab-nd.github.io/) of Computer Science and Engineering (CSE) at the [University of Notre Dame](https://www.nd.edu/) starting Fall 2024, supervised by [Prof. Xiangliang Zhang](https://scholar.google.com/citations?user=BhRJe4wAAAAJ&hl=en). I obtained my bachelor's degree from [Sichuan University](https://www.scu.edu.cn/) in 2024. Previously, I was a visiting student under the guidance of [Prof. Lichao Sun](https://lichao-sun.github.io/). This experience was enhanced by mentorship from [Prof. Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en). Earlier before, I worked under [Prof. Tang Jie](https://keg.cs.tsinghua.edu.cn/jietang/) and [Dr. Xiao Liu](https://scholar.google.com.hk/citations?user=VKI8EhUAAAAJ&hl=zh-CN) at Tsinghua University.
 
-> I am seeking potential research collaborations. If you are interested, please [contact me](&#40;mailto:yhuang37@nd.edu&#41;).
+
+> I welcome the opportunity to connect with colleagues in my field as well as those from interdisciplinary areas, as I believe collaboration is immensely valuable. If you are interested in my research, please do not hesitate to contact me [via email](&#40;mailto:yhuang37@nd.edu&#41;).
 
 ## Research Interests
 
