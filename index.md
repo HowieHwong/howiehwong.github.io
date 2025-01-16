@@ -108,4 +108,4 @@ My research is centered on three pivotal questions:
 
 ## Internships
 
-- *2023.09 - 2024.01*, Research Intern at <img src='assets/img/thu.png' style='width: 1.2em;'> Tsinghua University KEG & Zhipu AI Inc.
+- *2023.09 - 2024.01*, Research Intern at <img src='assets/img/thu.png' style='width: 1.2em;'> [Tsinghua University KEG](https://keg.cs.tsinghua.edu.cn/)
