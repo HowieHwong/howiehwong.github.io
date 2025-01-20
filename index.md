@@ -21,6 +21,8 @@ My research is centered on three pivotal questions:
 
 ## News
 
+<span style="color: #de724e;">I will give two invited talks/guest lectures about the ''Socially Responsible and Trustworthy Generative Model'' @USC (2.24) @UVA (3.24)</span>
+
 - *2024.12* &nbsp; I will join IBM Research as a Research Scientist Intern in 2025 Summer. See you in Cambridge, MA.
 
 - *2024.09*  &nbsp; [HonestLLM](https://arxiv.org/abs/2406.00380) has been accepted by NeurIPS 2024! Congratulations to [Chujie](https://flossiee.github.io/)! Another paper has been accepted by main conference of EMNLP 2024!
