@@ -13,15 +13,17 @@ I'm a first-year PhD student in [MINE Lab](https://mine-lab-nd.github.io/) of Co
 
 My research is centered on three pivotal questions:
 
-- **How can we deepen our understanding of the trustworthiness of foundational generative models?** This line of inquiry seeks to develop robust frameworks for evaluating trustworthiness and to identify strategies for enhancing the trustworthiness of these models within specific application domains. This includes: [TrustLLM (ICML'24)](https://arxiv.org/abs/2401.05561), [LLM-as-a-Coauthor (NAACL'24)](https://aclanthology.org/2024.findings-naacl.29/), [Attack LLM Judge (ACM CCS'24)](https://arxiv.org/abs/2403.17710), [FakeGPT (WWW'24)](https://dl.acm.org/doi/abs/10.1145/3589335.3651509), [Multilingual Alignment (EMNLP'24)](https://arxiv.org/abs/2406.14721), [HonestLLM (NeurIPS'24)](https://arxiv.org/abs/2406.00380), [TrustNLP@NAACL'24](https://arxiv.org/abs/2407.16686), and [ObscurePrompt](https://arxiv.org/abs/2406.13662).
+- **How can we deepen our understanding of the trustworthiness of foundational generative models?** This line of inquiry seeks to develop robust frameworks for evaluating trustworthiness and to identify strategies for enhancing the trustworthiness of these models within specific application domains. This includes: [TrustLLM (ICML'24)](https://arxiv.org/abs/2401.05561), [LLM-as-a-Coauthor (NAACL'24)](https://aclanthology.org/2024.findings-naacl.29/), [Attack LLM Judge (ACM CCS'24)](https://arxiv.org/abs/2403.17710), [FakeGPT (WWW'24)](https://dl.acm.org/doi/abs/10.1145/3589335.3651509), [Multilingual Alignment (EMNLP'24)](https://arxiv.org/abs/2406.14721), [HonestLLM (NeurIPS'24)](https://arxiv.org/abs/2406.00380), [TrustNLP@NAACL'24](https://arxiv.org/abs/2407.16686), and [ObscurePrompt](https://arxiv.org/abs/2406.13662), [Bias of LLM Judge (ICLR'25)](https://openreview.net/forum?id=3GTtZFiajM).
 
-- **Is there a superior approach to achieving Artificial General Intelligence (AGI)?** This research emphasizes data-centric methods to enable scalable model alignment and evolution, ensuring that they adhere to human values and ethical paradigms throughout the development process. This includes: [AlignBench (ACL'24)](https://arxiv.org/abs/2311.18743), [Multilingual Alignment (EMNLP'24)](https://arxiv.org/abs/2406.14721), and [UniGen](https://arxiv.org/abs/2406.18966).
+- **Is there a superior approach to achieving Artificial General Intelligence (AGI)?** This research emphasizes data-centric methods to enable scalable model alignment and evolution, ensuring that they adhere to human values and ethical paradigms throughout the development process. This includes: [AlignBench (ACL'24)](https://arxiv.org/abs/2311.18743), [Multilingual Alignment (EMNLP'24)](https://arxiv.org/abs/2406.14721), and [UniGen (ICLR'25)](https://arxiv.org/abs/2406.18966), [Interleave Generation (ICLR'25)](https://openreview.net/forum?id=rDLgnYLM5b).
 
-- **To what extent can current AI technologies effectively benefit downstream applications?** This research area critically assesses the practical impact of generative models, with a particular focus on their application and AI4Science, exploring its transformative potential and interdisciplinary contributions in fields such as agentic models, social sciences, and beyond. This includes: [MetaTool (ICLR'24)](https://arxiv.org/abs/2310.03128), [PsychometricBench](https://arxiv.org/abs/2406.17675), [AwareBench](https://arxiv.org/abs/2401.17882) and [GUI-World](https://arxiv.org/abs/2406.10819).
+- **To what extent can current AI technologies effectively benefit downstream applications?** This research area critically assesses the practical impact of generative models, with a particular focus on their application and AI4Science, exploring its transformative potential and interdisciplinary contributions in fields such as agentic models, social sciences, and beyond. This includes: [MetaTool (ICLR'24)](https://arxiv.org/abs/2310.03128), [PsychometricBench](https://arxiv.org/abs/2406.17675), [AwareBench](https://arxiv.org/abs/2401.17882) and [GUI-World (ICLR'25)](https://arxiv.org/abs/2406.10819).
 
 ## News
 
-<span style="color: #de724e;">I will give two invited talks/guest lectures about the ''Socially Responsible and Trustworthy Generative Model'' @USC (2.24) @UVA (3.24)</span>
+<span style="color: #de724e;">I will give two invited talks/guest lectures about the ''Socially Responsible and Trustworthy Generative Model'' @USC (2.24) @UVA (3.24) KAUST (4.7~4.10)</span>
+
+- *2025.01* &nbsp; Four paper have been accepted by ICLR 2025! I was selected as [KAUST Rising Stars in AI Symposium 2025](https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025), hosted by the [KAUST Center of Excellence for Generative AI](https://www.kaust.edu.sa/en/research/generative-ai) in Saudi Arabia from April 7-10, 2025.
 
 - *2024.12* &nbsp; I will join IBM Research as a Research Scientist Intern in 2025 Summer. See you in Cambridge, MA.
 
@@ -44,6 +46,26 @@ My research is centered on three pivotal questions:
 **Disclaimer**: This material is presented to ensure the timely dissemination of scholarly works. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms invoked by each author's copyright.
 
 *: Equal Contribution
+
+- [DataGen: A Unified Framework for Textual Dataset Generation Using Large Language Models](https://openreview.net/forum?id=F5R0lG74Tu&noteId=jkupmMSLvV)\\
+  **Yue Huang\***, Siyuan Wu\*, Chujie Gao, Dongping Chen, Qihui Zhang, Yao Wan, Tianyi Zhou, Chaowei Xiao, Jianfeng Gao, et al.\\
+  <span style="color: #de724e;">The Thirteenth International Conference on Learning Representations (ICLR 2025)</span>\\
+  [\[Toolkit\]](https://github.com/HowieHwong/UniGen) [\[Website\]](https://unigen-framework.github.io/) [\[Tutotial Video\]](https://github-production-user-asset-6210df.s3.amazonaws.com/59754221/343313227-20bb9a6e-e580-4b32-97f7-46f35d3c8c6e.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250122T195432Z&X-Amz-Expires=300&X-Amz-Signature=a4c3517e39d95e730aefe023f9e87bbb0803638d0a47026a576ab4173ad7115c&X-Amz-SignedHeaders=host)
+
+- [Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge](https://openreview.net/forum?id=3GTtZFiajM)\\
+  Jiayi Ye\*, Yanbo Wang\*, **Yue Huang\***, Dongping Chen, Qihui Zhang, Nuno Moniz, Tian Gao, Werner Geyer, Chao Huang, Pin-Yu Chen, Nitesh V Chawla, Xiangliang Zhang\\
+  <span style="color: #de724e;">The Thirteenth International Conference on Learning Representations (ICLR 2025)</span>\\
+  [\[Website\]](https://llm-judge-bias.github.io/)
+
+- [GUI-World: A GUI-oriented Dataset for Multimodal LLM-based Agents](https://openreview.net/forum?id=QarKTT5brZ)\\
+  Dongping Chen\*, **Yue Huang\***, Siyuan Wu, Jingyu Tang, Huichi Zhou, Qihui Zhang, Zhigang He, et al.\\
+  <span style="color: #de724e;">The Thirteenth International Conference on Learning Representations (ICLR 2025)</span>\\
+  [\[Website\]](https://gui-world.github.io/) [\[Dataset\]](https://huggingface.co/datasets/shuaishuaicdp/GUI-World) [\[Model\]](https://huggingface.co/shuaishuaicdp/GUI-Vid)
+
+- [Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment](https://openreview.net/forum?id=rDLgnYLM5b)\\
+  Dongping Chen, Ruoxi Chen, Shu Pu, Zhaoyi Liu, Yanru Wu, Caixi Chen, Benlin Liu, **Yue Huang**, Yao Wan, Pan Zhou, Ranjay Krishna
+  <span style="color: #de724e;">The Thirteenth International Conference on Learning Representations (ICLR 2025)</span>\\
+  [\[Website\]](https://interleave-eval.github.io/) [\[Code\]](https://github.com/Dongping-Chen/ISG)
 
 - [TrustLLM: Trustworthiness in Large Language Models](https://proceedings.mlr.press/v235/huang24x.html)\\
   **Yue Huang**, Lichao Sun, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al.\\
