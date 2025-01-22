@@ -21,7 +21,7 @@ My research is centered on three pivotal questions:
 
 ## News
 
-<span style="color: #de724e;">I will give two invited talks/guest lectures about the ''Socially Responsible and Trustworthy Generative Model'' @USC (2.24) @UVA (3.24) KAUST (4.7~4.10)</span>
+<span style="color: #de724e;">I will give three invited talks/guest lectures about the ''Socially Responsible and Trustworthy Generative Model'' @USC (2.24) @UVA (3.24) @KAUST (4.7~4.10)</span>
 
 - *2025.01* &nbsp; Four paper have been accepted by ICLR 2025! I was selected as [KAUST Rising Stars in AI Symposium 2025](https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025), hosted by the [KAUST Center of Excellence for Generative AI](https://www.kaust.edu.sa/en/research/generative-ai) in Saudi Arabia from April 7-10, 2025.
 
@@ -63,7 +63,7 @@ My research is centered on three pivotal questions:
   [\[Website\]](https://gui-world.github.io/) [\[Dataset\]](https://huggingface.co/datasets/shuaishuaicdp/GUI-World) [\[Model\]](https://huggingface.co/shuaishuaicdp/GUI-Vid)
 
 - [Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment](https://openreview.net/forum?id=rDLgnYLM5b)\\
-  Dongping Chen, Ruoxi Chen, Shu Pu, Zhaoyi Liu, Yanru Wu, Caixi Chen, Benlin Liu, **Yue Huang**, Yao Wan, Pan Zhou, Ranjay Krishna
+  Dongping Chen, Ruoxi Chen, Shu Pu, Zhaoyi Liu, Yanru Wu, Caixi Chen, Benlin Liu, **Yue Huang**, Yao Wan, Pan Zhou, Ranjay Krishna\\
   <span style="color: #de724e;">The Thirteenth International Conference on Learning Representations (ICLR 2025)</span>\\
   [\[Website\]](https://interleave-eval.github.io/) [\[Code\]](https://github.com/Dongping-Chen/ISG)
 
@@ -112,6 +112,8 @@ My research is centered on three pivotal questions:
 - *2024.07* Bias of Large Language Models @ TUM
 
 ## Honors and Awards
+- *2025.01* KAUST AI Rising Star
+
 - *2024.07* OpenAI’s Researcher Access Program and API
 
 - *2024.01* Microsoft Accelerate Foundation Models Research is awarded (Project: [TrustLLM](https://github.com/HowieHwong/TrustLLM) & Lead PI: [Lichao Sun](https://lichao-sun.github.io/))
