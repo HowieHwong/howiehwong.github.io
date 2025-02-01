@@ -21,7 +21,7 @@ My research is centered on three pivotal questions:
 
 ## News
 
-<span style="color: #de724e;">I will give three invited talks/guest lectures about the ''Socially Responsible and Trustworthy Generative Model'' @USC (2.24) @UVA (3.24) @KAUST (4.7~4.10)</span>
+<span style="color: #ae9142;">I will give three invited talks/guest lectures about the ''Socially Responsible and Trustworthy Generative Model'' @USC (2.24) @UVA (3.24) @KAUST (4.7~4.10)</span>
 
 - *2025.01* &nbsp; Four paper have been accepted by ICLR 2025! I was selected as [KAUST Rising Stars in AI Symposium 2025](https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025) (24/300+), hosted by the [KAUST Center of Excellence for Generative AI](https://www.kaust.edu.sa/en/research/generative-ai) in Saudi Arabia from April 7-10, 2025.
 
@@ -49,62 +49,62 @@ My research is centered on three pivotal questions:
 
 - [DataGen: A Unified Framework for Textual Dataset Generation Using Large Language Models](https://openreview.net/forum?id=F5R0lG74Tu&noteId=jkupmMSLvV)\\
   **Yue Huang\***, Siyuan Wu\*, Chujie Gao, Dongping Chen, Qihui Zhang, Yao Wan, Tianyi Zhou, Chaowei Xiao, Jianfeng Gao, et al.\\
-  <span style="color: #de724e;">The Thirteenth International Conference on Learning Representations (ICLR 2025)</span>\\
+  <span style="color: #ae9142;">The Thirteenth International Conference on Learning Representations (ICLR 2025)</span>\\
   [\[Toolkit\]](https://github.com/HowieHwong/UniGen) [\[Website\]](https://unigen-framework.github.io/) [\[Tutotial Video\]](https://github-production-user-asset-6210df.s3.amazonaws.com/59754221/343313227-20bb9a6e-e580-4b32-97f7-46f35d3c8c6e.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250122T195432Z&X-Amz-Expires=300&X-Amz-Signature=a4c3517e39d95e730aefe023f9e87bbb0803638d0a47026a576ab4173ad7115c&X-Amz-SignedHeaders=host)
 
 - [Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge](https://openreview.net/forum?id=3GTtZFiajM)\\
   Jiayi Ye\*, Yanbo Wang\*, **Yue Huang\***, Dongping Chen, Qihui Zhang, Nuno Moniz, Tian Gao, Werner Geyer, Chao Huang, Pin-Yu Chen, Nitesh V Chawla, Xiangliang Zhang\\
-  <span style="color: #de724e;">The Thirteenth International Conference on Learning Representations (ICLR 2025)</span>\\
+  <span style="color: #ae9142;">The Thirteenth International Conference on Learning Representations (ICLR 2025)</span>\\
   [\[Website\]](https://llm-judge-bias.github.io/)
 
 - [GUI-World: A GUI-oriented Dataset for Multimodal LLM-based Agents](https://openreview.net/forum?id=QarKTT5brZ)\\
   Dongping Chen\*, **Yue Huang\***, Siyuan Wu, Jingyu Tang, Huichi Zhou, Qihui Zhang, Zhigang He, et al.\\
-  <span style="color: #de724e;">The Thirteenth International Conference on Learning Representations (ICLR 2025)</span>\\
+  <span style="color: #ae9142;">The Thirteenth International Conference on Learning Representations (ICLR 2025)</span>\\
   [\[Website\]](https://gui-world.github.io/) [\[Dataset\]](https://huggingface.co/datasets/shuaishuaicdp/GUI-World) [\[Model\]](https://huggingface.co/shuaishuaicdp/GUI-Vid)
 
 - [Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment](https://openreview.net/forum?id=rDLgnYLM5b)\\
   Dongping Chen, Ruoxi Chen, Shu Pu, Zhaoyi Liu, Yanru Wu, Caixi Chen, Benlin Liu, **Yue Huang**, Yao Wan, Pan Zhou, Ranjay Krishna\\
-  <span style="color: #de724e;">The Thirteenth International Conference on Learning Representations (ICLR 2025)</span>\\
+  <span style="color: #ae9142;">The Thirteenth International Conference on Learning Representations (ICLR 2025)</span>\\
   [\[Website\]](https://interleave-eval.github.io/) [\[Code\]](https://github.com/Dongping-Chen/ISG)
 
 - [TrustLLM: Trustworthiness in Large Language Models](https://proceedings.mlr.press/v235/huang24x.html)\\
   **Yue Huang**, Lichao Sun, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al.\\
-  <span style="color: #de724e;">2024 International Conference on Machine Learning (ICML 2024)</span>\\
+  <span style="color: #ae9142;">2024 International Conference on Machine Learning (ICML 2024)</span>\\
   (Highlighted by United States Department of Homeland Security (DHS), Invited Talk at IBM Research)\\
   [\[Code&Toolkit\]](https://howiehwong.github.io/TrustLLM/) [\[Website\]](https://trustllmbenchmark.github.io/TrustLLM-Website/) [\[Dataset\]](https://atlas.nomic.ai/map/f64e87d3-c769-4a90-b15d-9dc833acc8ba/8e9d7045-503b-4ba0-bc64-7201cb7aacee?xs=-16.14086&xf=-1.88776&ys=-7.54937&yf=3.88213) [\[Docs.\]](https://howiehwong.github.io/TrustLLM/)
 
 - [MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use](https://arxiv.org/abs/2310.03128)\\
   **Yue Huang**, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, Qihui Zhang, Yixin Liu, Pan Zhou, et al.\\
-  <span style="color: #de724e;"> The Twelfth International Conference on Learning Representations (ICLR 2024)</span>\\
+  <span style="color: #ae9142;"> The Twelfth International Conference on Learning Representations (ICLR 2024)</span>\\
   [\[Code\]](https://github.com/HowieHwong/MetaTool)
 
 - [1+1>2: Can Large Language Models Serve as Cross-Lingual Knowledge Aggregators?](https://arxiv.org/abs/2406.14721)\\
   **Yue Huang**\*, Chenrui Fan\*, Yuan Li, Siyuan Wu, et al.\\
-  <span style="color: #de724e;">The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)</span>
+  <span style="color: #ae9142;">The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)</span>
 
 - [HonestLLM: Toward an Honest and Helpful Large Language Model](https://arxiv.org/abs/2406.00380) \\
   Chujie Gao\*, Siyuan Wu\*, **Yue Huang\***, Dongping Chen\*, Qihui Zhang\*, et al. \\
-  <span style="color: #de724e;">Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</span>\\
+  <span style="color: #ae9142;">Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</span>\\
   [\[Code\]](https://github.com/Flossiee/HonestyLLM)
 
 - [Optimization-based Prompt Injection Attack to LLM-as-a-Judge](https://arxiv.org/abs/2403.17710)\\
   Jiawen Shi, Zenghui Yuan, Yinuo Liu, **Yue Huang**, Pan Zhou, Lichao Sun, Neil Zhenqiang Gong\\
-  <span style="color: #de724e;">The ACM Conference on Computer and Communications Security (ACM CCS 2024)</span>\\
+  <span style="color: #ae9142;">The ACM Conference on Computer and Communications Security (ACM CCS 2024)</span>\\
   [\[Code\]](https://github.com/ShiJiawenwen/JudgeDeceiver)
 
 - [LLM-as-a-Coauthor: Can Mixed Human-Written and Machine-Generated Text Be Detected?](https://arxiv.org/abs/2401.05952)\\
   Qihui Zhang\*, Chujie Gao\*, Dongping Chen\*, **Yue Huang**, et al.  
-  <span style="color: #de724e;">2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (Findings of NAACL 2024)</span>\\
+  <span style="color: #ae9142;">2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (Findings of NAACL 2024)</span>\\
   [\[Code\]](https://github.com/Dongping-Chen/MixSet) [\[Website\]](https://llm-coauthor.github.io/)
 
 - [AlignBench: Benchmarking Chinese Alignment of Large Language Models](https://arxiv.org/abs/2311.18743)\\
   Xiao Liu\*, Xuanyu Lei\*, Shengyuan Wang, **Yue Huang**, Zhuoer Feng, et al.\\
-  <span style="color: #de724e;">The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)</span>\\
+  <span style="color: #ae9142;">The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)</span>\\
   [\[Code\]](https://github.com/THUDM/AlignBench) [\[Website\]](https://llmbench.ai/align)
 
 - [From Creation to Clarification: ChatGPT's Journey Through the Fake News Quagmire]()\\
   **Yue Huang**, Kai Shu, Philip S. Yu, Lichao Sun\\
-  <span style="color: #de724e;">2024 ACM Web Conference (WWW 2024)</span>
+  <span style="color: #ae9142;">2024 ACM Web Conference (WWW 2024)</span>
 
 ## Talks
 - *2024.02* Trustworthiness in Large Language Models @ [IBM Research](https://research.ibm.com/)
