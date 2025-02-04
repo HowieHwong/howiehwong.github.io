@@ -122,7 +122,7 @@ My research is centered on three pivotal questions:
 
 - Journal Reviewer: IEEE Transactions on Artificial Intelligence (TAI), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP),  ACM Transactions on Intelligent Systems and Technology (ACM TIST)
 
-- Conference Reviewer: ICLR, ICML, ICDM, WWW, ACL Rolling Review, EMNLP Demo Track (2024)
+- Conference Reviewer: ICLR, ICML, ICDM, WWW, ACL Rolling Review, EMNLP Demo Track (2024), NAACL Demo Track (2025)
 
 - Technical Committee Member of 2024 IEEE Computer Society North America Student Challenge
 
