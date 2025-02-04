@@ -70,7 +70,7 @@ My research is centered on three pivotal questions:
 - [TrustLLM: Trustworthiness in Large Language Models](https://proceedings.mlr.press/v235/huang24x.html)\\
   **Yue Huang**, Lichao Sun, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al.\\
   <span style="color: #ae9142;">2024 International Conference on Machine Learning (ICML 2024)</span>\\
-  (Highlighted by United States Department of Homeland Security (DHS), Invited Talk at IBM Research)\\
+  (Highlighted by United States Department of Homeland Security (DHS) & International AI Safety Report, Invited Talk at IBM Research)\\
   [\[Code&Toolkit\]](https://howiehwong.github.io/TrustLLM/) [\[Website\]](https://trustllmbenchmark.github.io/TrustLLM-Website/) [\[Dataset\]](https://atlas.nomic.ai/map/f64e87d3-c769-4a90-b15d-9dc833acc8ba/8e9d7045-503b-4ba0-bc64-7201cb7aacee?xs=-16.14086&xf=-1.88776&ys=-7.54937&yf=3.88213) [\[Docs.\]](https://howiehwong.github.io/TrustLLM/)
 
 - [MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use](https://arxiv.org/abs/2310.03128)\\
