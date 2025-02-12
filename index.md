@@ -7,7 +7,14 @@ layout: homepage
 I'm a first-year PhD student in [MINE Lab](https://mine-lab-nd.github.io/) of Computer Science and Engineering (CSE) at the [University of Notre Dame](https://www.nd.edu/) starting Fall 2024, supervised by [Prof. Xiangliang Zhang](https://scholar.google.com/citations?user=BhRJe4wAAAAJ&hl=en). I obtained my bachelor's degree from [Sichuan University](https://www.scu.edu.cn/) in 2024. Previously, I was a visiting student under the guidance of [Prof. Lichao Sun](https://lichao-sun.github.io/). This experience was enhanced by mentorship from [Prof. Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en). Earlier before, I worked under [Prof. Tang Jie](https://keg.cs.tsinghua.edu.cn/jietang/) and [Dr. Xiao Liu](https://scholar.google.com.hk/citations?user=VKI8EhUAAAAJ&hl=zh-CN) at Tsinghua University.
 
 
-> I welcome the opportunity to connect with colleagues in my field as well as those from interdisciplinary areas, as I believe collaboration is immensely valuable. If you are interested in my research, please do not hesitate to contact me [via email](&#40;mailto:yhuang37@nd.edu&#41;).
+<div style="border: 2px solid #0078D4; padding: 15px; border-radius: 10px; background-color: #F0F8FF; font-size: 16px;">
+    <p>
+        I welcome the opportunity to connect with colleagues in my field as well as those from interdisciplinary areas, as I believe collaboration is immensely valuable. <br><br>
+        If you are interested in my research, please feel free to contact me 
+        <a href="mailto:yhuang37@nd.edu" style="color: #0078D4; font-weight: bold;">via email</a>.
+    </p>
+</div>
+
 
 ## Research Interests
 
@@ -23,7 +30,7 @@ My research is centered on three pivotal questions:
 
 <span style="color:rgb(2, 44, 122);">I will give four invited talks/guest lectures about the ''Socially Responsible and Trustworthy Generative Model'' @USC (2.24) @UVA (3.24) @KAUST (4.7~4.10) @UIUC (5.9)</span>
 
-<!-- <span style="color:rgb(2, 44, 122);">Check out latest preprint: [Contextual Distraction Vulnerability of LLM]() </span> -->
+Check out latest preprint: [Contextual Distraction Vulnerability of LLM](https://howiehwong.github.io/CDV_Preprint_version.pdf), [HHH Principles](https://howiehwong.github.io/HHH_Principle_position.pdf), [Preference Leakage of LLM Judge](https://howiehwong.github.io/preference_leakage.pdf)
 
 
 - *2025.01* &nbsp; Four paper have been accepted by ICLR 2025! I was selected as [KAUST Rising Stars in AI Symposium 2025](https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025) (24/300+), hosted by the [KAUST Center of Excellence for Generative AI](https://www.kaust.edu.sa/en/research/generative-ai) in Saudi Arabia from April 7-10, 2025.
