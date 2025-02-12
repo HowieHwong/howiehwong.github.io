@@ -9,7 +9,7 @@ I'm a first-year PhD student in [MINE Lab](https://mine-lab-nd.github.io/) of Co
 
 <div style="border: 2px solid #0078D4; padding: 15px; border-radius: 10px; background-color: #F0F8FF; font-size: 16px;">
     <p>
-        I welcome the opportunity to connect with colleagues in my field as well as those from interdisciplinary areas, as I believe collaboration is immensely valuable. <br><br>
+        I welcome the opportunity to connect with colleagues in my field as well as those from interdisciplinary areas, as I believe collaboration is immensely valuable. <br>
         If you are interested in my research, please feel free to contact me 
         <a href="mailto:yhuang37@nd.edu" style="color: #0078D4; font-weight: bold;">via email</a>.
     </p>
