@@ -57,7 +57,7 @@ Check out latest preprint: [Contextual Distraction Vulnerability of LLM](https:/
 
 *: Equal Contribution
 
-- [DataGen: A Unified Framework for Textual Dataset Generation Using Large Language Models](https://openreview.net/forum?id=F5R0lG74Tu&noteId=jkupmMSLvV)\\
+- [DataGen: Unified Synthetic Dataset Generation via Large Language Models](https://openreview.net/forum?id=F5R0lG74Tu&noteId=jkupmMSLvV)\\
   **Yue Huang\***, Siyuan Wu\*, Chujie Gao, Dongping Chen, Qihui Zhang, Yao Wan, Tianyi Zhou, Chaowei Xiao, Jianfeng Gao, et al.\\
   <span style="color: #ae9142;">The Thirteenth International Conference on Learning Representations (ICLR 2025)</span>\\
   [\[Toolkit\]](https://github.com/HowieHwong/UniGen) [\[Website\]](https://unigen-framework.github.io/) [\[Tutotial Video\]](https://github-production-user-asset-6210df.s3.amazonaws.com/59754221/343313227-20bb9a6e-e580-4b32-97f7-46f35d3c8c6e.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250122T195432Z&X-Amz-Expires=300&X-Amz-Signature=a4c3517e39d95e730aefe023f9e87bbb0803638d0a47026a576ab4173ad7115c&X-Amz-SignedHeaders=host)
@@ -74,7 +74,7 @@ Check out latest preprint: [Contextual Distraction Vulnerability of LLM](https:/
 
 - [Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment](https://openreview.net/forum?id=rDLgnYLM5b)\\
   Dongping Chen, Ruoxi Chen, Shu Pu, Zhaoyi Liu, Yanru Wu, Caixi Chen, Benlin Liu, **Yue Huang**, Yao Wan, Pan Zhou, Ranjay Krishna\\
-  <span style="color: #ae9142;">The Thirteenth International Conference on Learning Representations (ICLR 2025)</span>\\
+  <span style="color: #ae9142;">The Thirteenth International Conference on Learning Representations (ICLR 2025 Spotlight)</span>\\
   [\[Website\]](https://interleave-eval.github.io/) [\[Code\]](https://github.com/Dongping-Chen/ISG)
 
 - [TrustLLM: Trustworthiness in Large Language Models](https://proceedings.mlr.press/v235/huang24x.html)\\
