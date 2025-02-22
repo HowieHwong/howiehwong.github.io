@@ -30,7 +30,7 @@ My research is centered on three pivotal questions:
 
 <span style="color:rgb(2, 44, 122);">I will give four invited talks/guest lectures about the ''Socially Responsible and Trustworthy Generative Model'' @USC (2.24) @UVA (3.24) @KAUST (4.7~4.10) @UIUC (5.9)</span>
 
-Check out latest preprint: [Contextual Distraction Vulnerability of LLM](https://howiehwong.github.io/CDV_Preprint_version.pdf), [HHH Principles](https://howiehwong.github.io/HHH_Principle_position.pdf), [Preference Leakage of LLM Judge](https://howiehwong.github.io/preference_leakage.pdf)
+Check out latest preprint: [Trustworthiness of Generative Foundation Models](https://howiehwong.github.io/TrustGen.pdf), [Contextual Distraction Vulnerability of LLM](https://howiehwong.github.io/CDV_Preprint_version.pdf), [HHH Principles](https://howiehwong.github.io/HHH_Principle_position.pdf), [Preference Leakage of LLM Judge](https://howiehwong.github.io/preference_leakage.pdf)
 
 
 - *2025.01* &nbsp; Four paper have been accepted by ICLR 2025! I was selected as [KAUST Rising Stars in AI Symposium 2025](https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025) (24/300+), hosted by the [KAUST Center of Excellence for Generative AI](https://www.kaust.edu.sa/en/research/generative-ai) in Saudi Arabia from April 7-10, 2025.
