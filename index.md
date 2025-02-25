@@ -145,7 +145,7 @@ Check out latest preprint: [Trustworthiness of Generative Foundation Models](htt
 ## Educations
 
 - *2024.09 - Present*, Ph.D, <img src='assets/img/Notre_Dame.png' style='width: 1.2em;'> [University of Notre Dame](https://www.nd.edu/) 
-- *2020.09 - 2024.06*, BEng., <img src='assets/img/scu.png' style='width: 1.2em;'> [Sichuan University](https://www.scu.edu.cn/) 
+- *2020.09 - 2024.06*, BEng., <img src='assets/img/scu.png' style='width: 1.2em;'> [Sichuan University](https://en.scu.edu.cn/) 
 
 
 ## Internships
