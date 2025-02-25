@@ -49,7 +49,7 @@ Check out latest preprint: [Trustworthiness of Generative Foundation Models](htt
 
 - *2024.02* &nbsp; Thanks for the invited talk on TrustLLM Project! @ [IBM Research](https://research.ibm.com/)
 
-- *2024.01* &nbsp; [MetaTool](https://arxiv.org/abs/2310.03128) has been accepted by ICLR 2024! Finish research internship at Tsinghua University KEG & Zhipu Inc.!
+- *2024.01* &nbsp; [MetaTool](https://arxiv.org/abs/2310.03128) has been accepted by ICLR 2024! Finish research internship at Tsinghua University KEG!
 
 ## Selected Publications
 
@@ -117,9 +117,15 @@ Check out latest preprint: [Trustworthiness of Generative Foundation Models](htt
   <span style="color: #ae9142;">2024 ACM Web Conference (WWW 2024)</span>
 
 ## Talks
+- *2025.02* Toward Socially Impactful and Trustworthy Generative Foundation Models @ [USC](https://www.usc.edu/) [\[Slides\]](https://howiehwong.github.io/Socially_Trustworthy_GenFMs.pdf)
+
+- *2024.07* Bias of Large Language Models @ [TUM](https://www.tum.de/en/)
+
 - *2024.02* Trustworthiness in Large Language Models @ [IBM Research](https://research.ibm.com/)
 
-- *2024.07* Bias of Large Language Models @ TUM
+
+
+
 
 ## Honors and Awards
 - *2025.01* KAUST AI Rising Star
