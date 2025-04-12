@@ -37,19 +37,17 @@ Check out latest preprints: [Trustworthiness of Generative Foundation Models](ht
 
 - *2024.12* &nbsp; I will join IBM Research as a Research Scientist Intern in 2025 Summer. See you in Cambridge, MA.
 
-- *2024.09*  &nbsp; [HonestLLM](https://arxiv.org/abs/2406.00380) has been accepted by NeurIPS 2024! Congratulations to [Chujie](https://flossiee.github.io/)! Another paper has been accepted by main conference of EMNLP 2024!
+- *2024.09*  &nbsp; [HonestLLM](https://arxiv.org/abs/2406.00380) has been accepted by NeurIPS 2024. Congratulations to [Chujie](https://flossiee.github.io/)! Another paper has been accepted by main conference of EMNLP 2024.
 
-- *2024.08* &nbsp; [Attack LLM-as-a-Judge](https://arxiv.org/abs/2403.17710) has been accepted by ACM CCS 2024!
+- *2024.08* &nbsp; [Attack LLM-as-a-Judge](https://arxiv.org/abs/2403.17710) has been accepted by ACM CCS 2024.
 
 - *2024.07* &nbsp; OpenAI’s Researcher Access Program is Awarded.
 
-- *2024.05* &nbsp; [TrustLLM](https://trustllmbenchmark.github.io/TrustLLM-Website/) has been accepted by ICML 2024! Thanks to all the collaborators. See you in Vienna! Another paper has been accepted by main conference of ACL 2024!
+- *2024.05* &nbsp; [TrustLLM](https://trustllmbenchmark.github.io/TrustLLM-Website/) has been accepted by ICML 2024. Another paper has been accepted by main conference of ACL 2024.
 
 - *2024.03* &nbsp; One paper has been accepted by NAACL 2024! Congratulations to [Qihui](https://mask-hui.github.io/), [Chujie](https://flossiee.github.io/) and [Dongping](https://dongping-chen.github.io/)! Another paper has been accepted as a short paper of WWW 2024!
 
-- *2024.02* &nbsp; Thanks for the invited talk on TrustLLM Project! @ [IBM Research](https://research.ibm.com/)
-
-- *2024.01* &nbsp; [MetaTool](https://arxiv.org/abs/2310.03128) has been accepted by ICLR 2024! Finish research internship at Tsinghua University KEG!
+- *2024.01* &nbsp; [MetaTool](https://arxiv.org/abs/2310.03128) has been accepted by ICLR 2024! I will give an invited talk on TrustLLM Project @ [IBM Research](https://research.ibm.com/).
 
 ## Selected Publications
 
@@ -117,19 +115,19 @@ Check out latest preprints: [Trustworthiness of Generative Foundation Models](ht
   <span style="color: #ae9142;">2024 ACM Web Conference (WWW 2024)</span>
 
 ## Talks
-- On the Trustworthiness of Generative Foundation Models\\
+- On the Trustworthiness of Generative Foundation Models | Apr. 2025\\
   <span style="color: #ae9142;">@ [KAUST Rising Stars in AI Symposium 2025](https://cemse.kaust.edu.sa/events/by-type/2025/04/07/rising-stars-ai-symposium-2025)</span>
 
-- Trustworthiness in Large Language Models\\
+- Trustworthiness in Large Language Models | Mar. 2025\\
 <span style="color: #ae9142;">@ [University of Virginia](https://www.virginia.edu/)</span>
 
-- Toward Socially Impactful and Trustworthy Generative Foundation Models\\
+- Toward Socially Impactful and Trustworthy Generative Foundation Models | Feb. 2025\\
   <span style="color: #ae9142;">@ [University of Southern California](https://www.usc.edu/) [\[Slides\]](https://howiehwong.github.io/Socially_Trustworthy_GenFMs.pdf)</span>
 
-- Bias of Large Language Models\\
+- Bias of Large Language Models | Jul. 2024\\
 <span style="color: #ae9142;">@ [Technical University of Munich](https://www.tum.de/en/)</span>
 
-- Trustworthiness in Large Language Models\\
+- Trustworthiness in Large Language Models | Feb. 2024\\
 <span style="color: #ae9142;">@ [IBM Research](https://research.ibm.com/)</span>
 
 
@@ -137,7 +135,7 @@ Check out latest preprints: [Trustworthiness of Generative Foundation Models](ht
 ## Honors and Awards
 - *2025.01* KAUST AI Rising Star
 
-- *2024.07* OpenAI’s Researcher Access Program and API
+- *2024.07* OpenAI’s Researcher Access Program
 
 - *2024.01* Microsoft Accelerate Foundation Models Research is awarded (Project: [TrustLLM](https://github.com/HowieHwong/TrustLLM) & Lead PI: [Lichao Sun](https://lichao-sun.github.io/))
 
@@ -145,7 +143,7 @@ Check out latest preprints: [Trustworthiness of Generative Foundation Models](ht
 
 - Journal Reviewer: IEEE Transactions on Artificial Intelligence (TAI), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP),  ACM Transactions on Intelligent Systems and Technology (ACM TIST)
 
-- Conference Reviewer: NeurIPS, ICLR, ICML, ICDM, WWW, ACL Rolling Review, EMNLP Demo Track (2024), NAACL Demo Track (2025)
+- Conference Reviewer: NeurIPS, ICLR, ICML, ICDM, WWW, ACL Rolling Review, EMNLP Demo Track (2024), NAACL Demo Track (2025), ACL Demo Track (2025)
 
 - Technical Committee Member of 2024 IEEE Computer Society North America Student Challenge
 
