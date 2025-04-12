@@ -117,19 +117,19 @@ Check out latest preprints: [Trustworthiness of Generative Foundation Models](ht
   <span style="color: #ae9142;">2024 ACM Web Conference (WWW 2024)</span>
 
 ## Talks
-- On the Trustworthiness of Generative Foundation Models
+- On the Trustworthiness of Generative Foundation Models\\
   <span style="color: #ae9142;">@ [KAUST Rising Stars in AI Symposium 2025](https://cemse.kaust.edu.sa/events/by-type/2025/04/07/rising-stars-ai-symposium-2025)</span>
 
-- Trustworthiness in Large Language Models 
+- Trustworthiness in Large Language Models\\
 <span style="color: #ae9142;">@ [University of Virginia](https://www.virginia.edu/)</span>
 
-- Toward Socially Impactful and Trustworthy Generative Foundation Models 
+- Toward Socially Impactful and Trustworthy Generative Foundation Models\\
   <span style="color: #ae9142;">@ [University of Southern California](https://www.usc.edu/) [\[Slides\]](https://howiehwong.github.io/Socially_Trustworthy_GenFMs.pdf)</span>
 
-- Bias of Large Language Models 
+- Bias of Large Language Models\\
 <span style="color: #ae9142;">@ [Technical University of Munich](https://www.tum.de/en/)</span>
 
-- Trustworthiness in Large Language Models 
+- Trustworthiness in Large Language Models\\
 <span style="color: #ae9142;">@ [IBM Research](https://research.ibm.com/)</span>
 
 
