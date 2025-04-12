@@ -156,3 +156,16 @@ Check out latest preprints: [Trustworthiness of Generative Foundation Models](ht
 ## Internships
 
 - *2023.09 - 2024.01*, Research Intern at <img src='assets/img/thu.png' style='width: 1.2em;'> [Tsinghua University KEG](https://keg.cs.tsinghua.edu.cn/)
+
+
+## Misc
+
+- I spent 18 years in my hometown, [Fujian 🇨🇳](https://en.wikipedia.org/wiki/Fujian), and had 4 wonderful years of university life in [Sichuan](https://en.wikipedia.org/wiki/Sichuan) 🌶️ (I can handle spicy food!).
+
+- I love exchanging ideas with people from different fields 🌍—it helps me see the world more broadly.
+
+- My favorite singers are [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) and [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO) 🎤. Lately, I’ve been listening to [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) 🎶.
+
+- My favorite sports are swimming 🏊 and badminton 🏸. I also enjoy capturing scenic moments with my camera 📷.
+
+- I’m deeply grateful to those who’ve helped me along the way 🙏—thank you for helping me go further!
