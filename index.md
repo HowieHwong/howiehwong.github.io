@@ -164,7 +164,7 @@ Check out latest preprints: [Trustworthiness of Generative Foundation Models](ht
 
 - I love exchanging ideas with people from different fields 🌍—it helps me see the world more broadly.
 
-- My favorite singers are [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) and [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO) 🎤. Lately, I’ve been listening to [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) 🎶.
+- My favorite singers are [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) and [Steve Chou;小剛](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO) 🎤. Lately, I’ve been listening to [Evangeline Wong;王艷薇](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) 🎶.
 
 - My favorite sports are swimming 🏊 and badminton 🏸. I also enjoy capturing scenic moments with my camera 📷.
 
