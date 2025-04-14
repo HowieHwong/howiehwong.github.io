@@ -10,6 +10,7 @@ I'm a first-year PhD student in [MINE Lab](https://mine-lab-nd.github.io/) of Co
 <div style="border-top: 2px solid #000; border-bottom: 2px solid #000; border-left: none; border-right: none; padding: 5px; border-radius: 0; background-color: #F5F5F5; box-shadow: 0 4px 8px rgba(23, 22, 22, 0.1); font-size: 16px;">
       <p>
           I welcome the opportunity to connect with colleagues in my field as well as those from interdisciplinary areas, as I believe collaboration is immensely valuable. <br>
+          My recent research has been centered on scientific foundation models, with a particular emphasis on their trustworthiness. Concurrently, I am working on the development of dynamic evaluation protocols tailored for generative models. <br>
           If you are interested in my research, please feel free to contact me 
           <a href="mailto:yhuang37@nd.edu" style="color: #0078D4; font-weight: bold;">via email</a>.
       </p>
@@ -77,11 +78,13 @@ Check out latest preprints: [Trustworthiness of Generative Foundation Models](ht
 
 - [UPME: An Unsupervised Peer Review Framework for Multimodal Large Language Model Evaluation](https://arxiv.org/pdf/2503.14941)\\
   Qihui Zhang, Munan Ning, Zheyuan Liu, Yanbo Wang, Jiayi Ye, **Yue Huang**, Shuo Yang, Xiao Chen, Yibing Song, Li Yuan\\
-  <span style="color: #ae9142;">The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025)</span>\\
+  <span style="color: #ae9142;">The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025)</span>
 
 - [TRUSTEVAL: A Dynamic Evaluation Toolkit on Trustworthiness of Generative Foundation Models](https://openreview.net/forum?id=yuvx062Cuj#discussion)\\
   Yanbo Wang\*, Jiayi Ye\*, Siyuan Wu\*, Chujie Gao, **Yue Huang**, Xiuying Chen, Yue Zhao, Xiangliang Zhang\\
   <span style="color: #ae9142;">2025 Annual Conference of the North American Chapter of the Association for Computational Linguistics -- System Demonstration (NAACL 2025 Demo)</span>\\
+  [\[Code\]](https://github.com/TrustGen/TrustEval-toolkit) [\[Tutotial Video\]](https://www.youtube.com/@TrustEval) [\[Docs.\]](https://trusteval-docs.readthedocs.io/en/latest/)
+  
 
 - [TrustLLM: Trustworthiness in Large Language Models](https://proceedings.mlr.press/v235/huang24x.html)\\
   **Yue Huang**, Lichao Sun, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al.\\
