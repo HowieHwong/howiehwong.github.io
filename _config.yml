@@ -27,6 +27,10 @@ twitter: https://x.com/HowieH36226
 avatar: ./assets/img/profile.jpg
 favicon: ./assets/img/Notre_Dame.png
 favicon_dark: ./assets/img/Notre_Dame.png
+undergraduate: ./assets/img/scu.png
+graduate: ./assets/img/Notre_Dame.png
+lab_icon: ./assets/img/MINE.png
+
 
 # The following files will be removed from the generated website.
 exclude:

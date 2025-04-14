@@ -30,6 +30,19 @@
 <!--
 <p><a href="">{{ site.title }}</a></p>
 -->
+
+<!-- Icons above position -->
+ <p>
+    {% if site.undergraduate %}
+      <img src="{{ site.undergraduate }}" alt="Undergraduate Icon" style="height:30px; margin-right:5px;" />
+    {% endif %}
+    {% if site.graduate %}
+      <img src="{{ site.graduate }}" alt="Graduate Icon" style="height:30px; margin-right:5px;" />
+    {% endif %}
+    {% if site.lab_icon %}
+      <img src="{{ site.lab_icon }}" alt="Lab Icon" style="height:30px;" />
+    {% endif %}
+</p>
 <p>{% if site.position %}
 {{ site.position }}<br />
 {% endif %}
