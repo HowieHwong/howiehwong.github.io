@@ -12,7 +12,7 @@ I'm a first-year PhD student in [MINE Lab](https://mine-lab-nd.github.io/) of Co
           I welcome the opportunity to connect with colleagues in my field as well as those from interdisciplinary areas, as I believe collaboration is immensely valuable. <br>
           My recent research has been centered on scientific foundation models, with a particular emphasis on their trustworthiness. Concurrently, I am working on the development of dynamic evaluation protocols tailored for generative models. <br>
           If you are interested in my research, please feel free to contact me 
-          <a href="mailto:yhuang37@nd.edu" style="color: #0078D4; font-weight: bold;">via email</a>.
+          <a href="mailto:yhuang37@nd.edu" style="color: #0078D4; font-weight: bold;">via email</a> or <a href="https://howiehwong.github.io/attendance.html" style="color: #0078D4; font-weight: bold;">in-person conversation</a>.
       </p>
   </div>
 
