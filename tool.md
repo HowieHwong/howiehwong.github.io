@@ -17,14 +17,17 @@ title: Toolkit&Dataset
   display: flex;
   background: #fdfde7;
   border: 1px solid #ccc;
-  border-radius: 12px;
+  border-radius: 0; 
+  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
   overflow: hidden;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
 .card img {
   width: 280px;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain; 
+  padding: 10px; 
+  background-color: white; 
 }
 
 .card-content {
@@ -53,6 +56,7 @@ title: Toolkit&Dataset
   text-decoration: none;
 }
 </style>
+
 
 <div class="card-grid">
 
