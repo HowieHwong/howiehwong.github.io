@@ -148,7 +148,7 @@ Check out latest preprints: [Trustworthiness of Generative Foundation Models](ht
 
 - *2024.07* OpenAI’s Researcher Access Program
 
-- *2024.01* Microsoft Accelerate Foundation Models Research is awarded (Project: [TrustLLM](https://github.com/HowieHwong/TrustLLM) & Lead PI: [Lichao Sun](https://lichao-sun.github.io/))
+- *2024.01* Microsoft Accelerate Foundation Models Research
 
 ## Academic Participation
 
