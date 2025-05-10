@@ -126,6 +126,10 @@ Check out latest preprints: [Trustworthiness of Generative Foundation Models](ht
   <span style="color: #ae9142;">2024 ACM Web Conference (WWW 2024)</span>
 
 ## Talks
+
+- Toward Socially Impactful and Trustworthy Generative Foundation Models | May 2025\\
+  <span style="color: #ae9142;">@ [University of Illinois Urbana-Champaign](https://illinois.edu/) [\[Slides\]](https://howiehwong.github.io/Socially_Trustworthy_GenFMs.pdf)</span>
+
 - On the Trustworthiness of Generative Foundation Models | Apr. 2025\\
   <span style="color: #ae9142;">@ [KAUST Rising Stars in AI Symposium 2025](https://cemse.kaust.edu.sa/events/by-type/2025/04/07/rising-stars-ai-symposium-2025)</span>
 
